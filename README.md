@@ -50,4 +50,8 @@ So if you're lonely
 Darling, you're glowing
 If you're lonely, come be lonely with me"
 
+e as palavras extraídas foram: lonely, seem, love, feel, life, dancing, meet, dream, seek, need
+
 *não me julgue <3
+
+Um adendo: não achei necessário por aquela lista de palavras ruins do alura, afinal, eu só usei palavras em inglês... então a aula 8 e 9 não foram introduzidas nesse trabalho porque eu não vou usar. Mas eu vi sim os vídeos e sei como fazer para o extrator remover palavras ruins e também identificar gêneros.
